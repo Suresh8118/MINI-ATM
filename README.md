@@ -1,4 +1,3 @@
-# MINI-ATM
 # Mini ATM System
 
 ## Overview
@@ -25,11 +24,11 @@ The **Mini ATM System** is a simple simulated banking system that allows users t
 
 ## Setup and Installation
 
-###1. Clone the Repository
+### 1. Clone the Repository
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Suresh8118/MINI-ATM/edit/main/README.md#mini-atm
+git clone https://github.com/your-username/mini-atm-project.git
 cd mini-atm-project
 2. Install Python and MySQL Dependencies
 You need to install the required Python packages. Use the following steps:
@@ -53,6 +52,7 @@ Copy code
 pip install mysql-connector-python
 Install MySQL Server
 Make sure you have MySQL installed on your machine. You can download MySQL from the official website: MySQL Downloads.
+
 3. Set Up MySQL Database
 Create Database: Open MySQL and create the atm database:
 
@@ -157,3 +157,5 @@ Feel free to fork this repository and submit pull requests. If you find any bugs
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
