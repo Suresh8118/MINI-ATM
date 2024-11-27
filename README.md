@@ -31,12 +31,28 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Suresh8118/MINI-ATM/edit/main/README.md#mini-atm
 cd mini-atm-project
-2. Install Required Libraries
+2. Install Python and MySQL Dependencies
+You need to install the required Python packages. Use the following steps:
+
+Install Python Dependencies:
+Create a virtual environment (optional, but recommended for project isolation):
+
+bash
+Copy code
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
 Install the required Python libraries:
 
 bash
 Copy code
+pip install -r requirements.txt
+If you don't have a requirements.txt file, you can manually install the MySQL Connector by running:
+
+bash
+Copy code
 pip install mysql-connector-python
+Install MySQL Server
+Make sure you have MySQL installed on your machine. You can download MySQL from the official website: MySQL Downloads.
 3. Set Up MySQL Database
 Create Database: Open MySQL and create the atm database:
 
