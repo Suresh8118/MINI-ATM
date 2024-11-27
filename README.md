@@ -25,7 +25,7 @@ The **Mini ATM System** is a simple simulated banking system that allows users t
 
 ## Setup and Installation
 
-1. Clone the Repository
+###1. Clone the Repository
 Clone the repository to your local machine:
 
 ```bash
